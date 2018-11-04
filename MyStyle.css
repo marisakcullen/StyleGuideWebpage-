@@ -1,0 +1,61 @@
+html {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+
+.myImages {
+    background-color: white;
+    padding: 10px;
+    margin: 10px; 
+    width: 35%;
+}
+
+a:hover {
+    color: orangered;
+}
+
+h1 {
+    font-size: 45px;
+}
+
+.mySection * {
+    color: black;
+}
+
+.myLogo {
+    width: 140px;
+}
+
+#adalogo {
+    width: 50%;
+    min-width: 400px;
+}
+
+.acircle {
+border-radius: 50%;
+height: 100px;
+width: 100px;
+min-width: 100px;
+min-height: 100px; 
+
+
+}
+
+#bluecircle {
+    background-color: #19B7C1
+}
+
+#blackcircle {
+    background-color: #070707
+}
+
+#container {
+  display: flex;
+  flex-direction: row;
+
+}
+
+.subcontainer {
+    padding: 15px;
+
+}
